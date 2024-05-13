@@ -1,2 +1,3 @@
 The is a test .txt document for GitHub testing.
 This is a new line of text to test new commits.
+Testing branch function with this new line.
